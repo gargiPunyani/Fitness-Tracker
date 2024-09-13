@@ -70,7 +70,7 @@ const Dashboard = () => {
   const [todaysWorkouts, setTodaysWorkouts] = useState([]);
   const [workout, setWorkout] = useState(`#Legs
 -Back Squat
--5 sets X 15 reps
+-5 setsX15 reps
 -30 kg
 -10 min`);
 
